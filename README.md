@@ -1,4 +1,4 @@
-#Django Blog Project
+##Django Blog Project
 
 This is the repository for the corresponding course on Udemy.  
 
